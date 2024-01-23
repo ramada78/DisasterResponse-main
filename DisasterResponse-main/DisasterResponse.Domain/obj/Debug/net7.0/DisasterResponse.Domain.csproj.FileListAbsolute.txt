@@ -1,0 +1,14 @@
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Domain\bin\Debug\net7.0\DisasterResponse.Domain.deps.json
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Domain\bin\Debug\net7.0\DisasterResponse.Domain.runtimeconfig.json
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Domain\bin\Debug\net7.0\DisasterResponse.Domain.dll
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Domain\bin\Debug\net7.0\DisasterResponse.Domain.pdb
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Domain\obj\Debug\net7.0\DisasterResponse.Domain.csproj.AssemblyReference.cache
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Domain\obj\Debug\net7.0\DisasterResponse.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Domain\obj\Debug\net7.0\DisasterResponse.Domain.AssemblyInfoInputs.cache
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Domain\obj\Debug\net7.0\DisasterResponse.Domain.AssemblyInfo.cs
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Domain\obj\Debug\net7.0\DisasterResponse.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Domain\obj\Debug\net7.0\DisasterResponse.Domain.dll
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Domain\obj\Debug\net7.0\refint\DisasterResponse.Domain.dll
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Domain\obj\Debug\net7.0\DisasterResponse.Domain.pdb
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Domain\obj\Debug\net7.0\DisasterResponse.Domain.genruntimeconfig.cache
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Domain\obj\Debug\net7.0\ref\DisasterResponse.Domain.dll

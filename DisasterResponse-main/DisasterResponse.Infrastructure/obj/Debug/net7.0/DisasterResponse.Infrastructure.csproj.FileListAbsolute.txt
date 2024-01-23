@@ -1,0 +1,16 @@
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\bin\Debug\net7.0\DisasterResponse.Infrastructure.deps.json
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\bin\Debug\net7.0\DisasterResponse.Infrastructure.dll
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\bin\Debug\net7.0\DisasterResponse.Infrastructure.pdb
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\bin\Debug\net7.0\DisasterResponse.Domain.dll
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\bin\Debug\net7.0\DisasterResponse.Domain.pdb
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\obj\Debug\net7.0\DisasterResponse.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\obj\Debug\net7.0\DisasterResponse.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\obj\Debug\net7.0\DisasterResponse.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\obj\Debug\net7.0\DisasterResponse.Infrastructure.AssemblyInfo.cs
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\obj\Debug\net7.0\DisasterResponse.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\obj\Debug\net7.0\DisasterResponse.Infrastructure.csproj.CopyComplete
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\obj\Debug\net7.0\DisasterResponse.Infrastructure.dll
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\obj\Debug\net7.0\refint\DisasterResponse.Infrastructure.dll
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\obj\Debug\net7.0\DisasterResponse.Infrastructure.pdb
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\obj\Debug\net7.0\ref\DisasterResponse.Infrastructure.dll
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Infrastructure\obj\Debug\net7.0\DisasterResponse.Infrastructure.sourcelink.json

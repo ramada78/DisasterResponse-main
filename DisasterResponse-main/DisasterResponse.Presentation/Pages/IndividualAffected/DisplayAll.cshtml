@@ -1,0 +1,34 @@
+﻿@page
+@model DisasterResponse.Presentation.Pages.IndividualAffected.DisplayAllModel
+@{
+}
+<partial name="_Message" />
+<div>
+    <table class="table table bordered table-striped">
+        <thead>
+            <tr>
+                <th>Full Name</th>
+                <th>Birth Date</th>
+                <th>Damage cases</th>
+                <th>Action</th>
+            </tr>
+            <tbody>
+                @foreach (var IndividualAffected in Model.IndividualsAffected)
+                {
+                <tr>
+                    <th>@IndividualAffected.Name</th>
+                    <th>@IndividualAffected.BirthDate</th>
+                    <th>@IndividualAffected.DamageCases</th>
+                    <th>
+                        <a asp-page="Edit" asp-route-id="@IndividualAffected.Id" class="btn btn-success">Edit</a>
+                        <form asp-action="DisplayAll">
+                            <button onclick="return confirm('Are You Sure??')" asp-page-handler="Delete" asp-route-id="@IndividualAffected.Id" class="btn btn-danger">Delete</button>
+                        </form>
+                       
+                    </th>
+                </tr>
+                }
+            </tbody>
+        </thead>
+    </table>
+</div>

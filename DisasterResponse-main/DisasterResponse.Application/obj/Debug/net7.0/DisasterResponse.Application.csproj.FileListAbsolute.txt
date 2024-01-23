@@ -1,0 +1,15 @@
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Application\bin\Debug\net7.0\DisasterResponse.Application.deps.json
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Application\bin\Debug\net7.0\DisasterResponse.Application.dll
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Application\bin\Debug\net7.0\DisasterResponse.Application.pdb
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Application\bin\Debug\net7.0\DisasterResponse.Domain.dll
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Application\bin\Debug\net7.0\DisasterResponse.Domain.pdb
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Application\obj\Debug\net7.0\DisasterResponse.Application.csproj.AssemblyReference.cache
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Application\obj\Debug\net7.0\DisasterResponse.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Application\obj\Debug\net7.0\DisasterResponse.Application.AssemblyInfoInputs.cache
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Application\obj\Debug\net7.0\DisasterResponse.Application.AssemblyInfo.cs
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Application\obj\Debug\net7.0\DisasterResponse.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Application\obj\Debug\net7.0\DisasterResponse.Application.csproj.CopyComplete
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Application\obj\Debug\net7.0\DisasterResponse.Application.dll
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Application\obj\Debug\net7.0\refint\DisasterResponse.Application.dll
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Application\obj\Debug\net7.0\DisasterResponse.Application.pdb
+C:\Users\Rama\Downloads\DisasterResponse-main\DisasterResponse-main\DisasterResponse.Application\obj\Debug\net7.0\ref\DisasterResponse.Application.dll
